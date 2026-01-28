@@ -53,14 +53,23 @@ The dataset adopts a YOLO-style data organization format.
 The directory structure is as follows:
 
 HymDrone
+
 -train
+
  -images
+ 
  -labels
+ 
 -val
+
  -images
+ 
  -labels
+ 
 -test
+
  -images
+ 
  -labels
 
 Where:
