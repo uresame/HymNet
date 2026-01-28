@@ -1,4 +1,4 @@
-<img width="1268" height="714" alt="图片" src="https://github.com/user-attachments/assets/c1e627d0-dff2-481d-b7bd-29a1144158d7" /># HymDrone Quadrotor UAV Dataset
+# HymDrone Quadrotor UAV Dataset
 
 ## 1. Dataset Overview
 
