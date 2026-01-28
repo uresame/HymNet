@@ -25,13 +25,21 @@ The dataset covers the following nine representative scene types:
 - Park
 - ![Park](images/图片1.jpg)
 - Nighttime
+- ![Nighttime](images/图片2.jpg)
 - Hilly areas with trees
+- ![Hilly areas with trees](images/图片3.jpg)
 - Terrain with trees
+- ![Terrain with trees](images/图片4.jpg)
 - Beach
+- ![Beach](images/图片5.jpg)
 - Jungle
+- ![Jungle](images/图片6.jpg)
 - Mountains
+- ![Mountains](images/图片7.jpg)
 - Highways
+- ![Highways](images/图片8.jpg)
 - Sunset
+- ![Sunset](images/图片9.jpg)
 
 These scenes feature complex background structures and varying levels of occlusion, effectively increasing the diversity and difficulty of the dataset.
 
@@ -40,10 +48,15 @@ These scenes feature complex background structures and varying levels of occlusi
 For each scene, the dataset further introduces five different weather conditions:
 
 - Sunny
+- ![Sunny](images/图片10.jpg)
 - Fog
+- ![Fog](images/图片11.jpg)
 - Haze
+- ![Haze](images/图片12.jpg)
 - Falling leaves
+- ![Falling leaves](images/图片13.jpg)
 - Heavy rain / snow
+- ![Heavy rain / snow](images/图片14.jpg)
 
 The combination of diverse scenes and weather conditions significantly enhances the generalization capability of the dataset.
 
