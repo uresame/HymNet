@@ -57,11 +57,7 @@ HymDrone
  -images
  -labels
 -val
- -images
- -labels
 -test
- -images
- -labels
 
 其中：
 
