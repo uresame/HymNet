@@ -53,14 +53,26 @@ HymDrone 是一个基于工程实际应用背景构建的四旋翼无人机数�
 数据集整体采用类似 YOLO 格式的数据组织方式，其目录结构如下：
 
 HymDrone
+
 -train
+
  -images
+ 
  -labels
+ 
 -val
+
+ -images
+ 
+ -labels
+ 
 -test
 
+ -images
+ 
+ -labels
+ 
 其中：
-
 images 文件夹用于存放无人机图像数据，
 labels 文件夹用于存放对应的目标标注文件，
 train、val、test 分别表示训练集、验证集和测试集。
