@@ -56,21 +56,21 @@ HymDrone
 
 -train
 
- -images
+   -images
  
- -labels
+   -labels
  
 -val
 
- -images
+   -images
  
- -labels
+   -labels
  
 -test
 
- -images
+   -images
  
- -labels
+   -labels
 
 Where:
 
