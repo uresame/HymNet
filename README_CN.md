@@ -23,15 +23,24 @@ HymDrone 是一个基于工程实际应用背景构建的四旋翼无人机数�
 
 数据集包含以下九种典型场景：
 
-- 公园（Park）
-- 夜间场景（Nighttime）
-- 林地区域（Hilly areas with trees）
-- 树木地形区域（Terrain with trees）
-- 海滩（Beach）
-- 丛林（Jungle）
-- 山地（Mountains）
-- 高速公路（Highways）
-- 日落场景（Sunset）
+- Park
+- ![Park](images/图片1.jpg)
+- Nighttime
+- ![Nighttime](images/图片2.jpg)
+- Hilly areas with trees
+- ![Hilly areas with trees](images/图片3.jpg)
+- Terrain with trees
+- ![Terrain with trees](images/图片4.jpg)
+- Beach
+- ![Beach](images/图片5.jpg)
+- Jungle
+- ![Jungle](images/图片6.jpg)
+- Mountains
+- ![Mountains](images/图片7.jpg)
+- Highways
+- ![Highways](images/图片8.jpg)
+- Sunset
+- ![Sunset](images/图片9.jpg)
 
 上述场景均具有复杂背景结构与不同程度的遮挡情况，
 有效提升了数据集的多样性与挑战性。
