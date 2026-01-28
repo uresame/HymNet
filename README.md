@@ -22,6 +22,7 @@ All images are captured at a high-definition resolution of 1920 × 1080 pixels, 
 ### (a) Scene Types (9 Categories)
 
 The dataset covers the following nine representative scene types:
+- Park
 - ![Park](images/图片1.jpg)
 - Nighttime
 - Hilly areas with trees
