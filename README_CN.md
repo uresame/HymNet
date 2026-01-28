@@ -56,21 +56,21 @@ HymDrone
 
 -train
 
- -images
+--images
  
- -labels
+--labels
  
 -val
 
- -images
+--images
  
- -labels
+--labels
  
 -test
 
- -images
+--images
  
- -labels
+--labels
  
 其中：
 images 文件夹用于存放无人机图像数据，
