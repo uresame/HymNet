@@ -1,4 +1,4 @@
-# HymDrone Quadrotor UAV Dataset
+<img width="1268" height="714" alt="图片" src="https://github.com/user-attachments/assets/c1e627d0-dff2-481d-b7bd-29a1144158d7" /># HymDrone Quadrotor UAV Dataset
 
 ## 1. Dataset Overview
 
@@ -47,38 +47,7 @@ For each scene, the dataset further introduces five different weather conditions
 
 The combination of diverse scenes and weather conditions significantly enhances the generalization capability of the dataset.
 
-## 4. Dataset Structure
-
-The dataset adopts a YOLO-style data organization format.
-The directory structure is as follows:
-
-HymDrone
-
--train
-
---images
- 
---labels
- 
--val
-
---images
- 
---labels
- 
--test
-
---images
- 
---labels
-
-Where:
-
-- The `images` directory stores UAV image data
-- The `labels` directory stores the corresponding annotation files
-- `train`, `val`, and `test` denote the training, validation, and test sets, respectively
-
-## 5. Applications
+## 4. Applications
 
 The HymDrone dataset can be used for the following research tasks:
 
@@ -87,7 +56,7 @@ The HymDrone dataset can be used for the following research tasks:
 - UAV visual perception in complex environments
 - Generalization analysis from simulation to real-world scenarios
 
-## 6. License and Usage
+## 5. License and Usage
 
 This dataset is released for academic research and educational use only.
 Commercial use is strictly prohibited.
