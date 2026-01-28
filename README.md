@@ -24,7 +24,7 @@ All images are captured at a high-definition resolution of 1920 × 1080 pixels, 
 The dataset covers the following nine representative scene types:
 
 - Park
-- ![](images/图片1.png)
+- ![HymDrone Examples](images/scene_examples.png)
 - Nighttime
 - Hilly areas with trees
 - Terrain with trees
