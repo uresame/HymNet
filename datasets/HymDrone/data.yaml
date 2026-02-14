@@ -1,0 +1,6 @@
+train: /HymNet/datasets/HymDrone/train # train images (relative to 'path')  47306 images
+val: /HymNet/datasets/HymDrone//val # val images (relative to 'path')  5908 images
+test: /HymNet/datasets/HymDrone/test # test images (relative to 'path') 5924 images
+# Classes
+names:
+  0: UAV
