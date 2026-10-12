@@ -106,8 +106,28 @@ This project builds upon and is inspired by the following open-source projects a
 
 We thank the authors for their excellent work.
 
-------
+---
+
+## Citation
+
+If you find this work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{HymNet,
+  author={Zhou, Dongjie and Liu, Chang and Zhu, Jiajun and Li, Wenrui and Wang, Yong and Fan, Xiaopeng},
+  title={HymNet: A Hybrid Multigranularity Perception Network for Small-Target Detection},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2026},
+  volume={19},
+  pages={32082--32097},
+  doi={10.1109/JSTARS.2026.3725176}
+}
+```
+
+---
 
 ## Contact
 
 If you have any questions, please contact dongjiezhou@stu.hit.edu.cn
+
+
